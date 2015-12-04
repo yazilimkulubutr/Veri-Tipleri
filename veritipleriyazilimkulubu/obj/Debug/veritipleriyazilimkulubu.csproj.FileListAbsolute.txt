@@ -1,0 +1,6 @@
+c:\users\kkadi\documents\visual studio 2015\Projects\veritipleriyazilimkulubu\veritipleriyazilimkulubu\bin\Debug\veritipleriyazilimkulubu.exe.config
+c:\users\kkadi\documents\visual studio 2015\Projects\veritipleriyazilimkulubu\veritipleriyazilimkulubu\obj\Debug\veritipleriyazilimkulubu.csprojResolveAssemblyReference.cache
+c:\users\kkadi\documents\visual studio 2015\Projects\veritipleriyazilimkulubu\veritipleriyazilimkulubu\bin\Debug\veritipleriyazilimkulubu.exe
+c:\users\kkadi\documents\visual studio 2015\Projects\veritipleriyazilimkulubu\veritipleriyazilimkulubu\bin\Debug\veritipleriyazilimkulubu.pdb
+c:\users\kkadi\documents\visual studio 2015\Projects\veritipleriyazilimkulubu\veritipleriyazilimkulubu\obj\Debug\veritipleriyazilimkulubu.exe
+c:\users\kkadi\documents\visual studio 2015\Projects\veritipleriyazilimkulubu\veritipleriyazilimkulubu\obj\Debug\veritipleriyazilimkulubu.pdb
